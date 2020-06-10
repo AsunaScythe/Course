@@ -1003,4 +1003,3 @@ int get_len(char *a){
     return n;
 }
 
-int filt_color(int *some,)
